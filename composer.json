@@ -1,0 +1,10 @@
+{
+    "name": "nop1984/monaco-editor",
+    "description": "This repository created to store JS Build of Monaco Editor for Composer package. Exact copy of build on official site, but not in zip",
+    "license": "MIT",
+    "homepage": "https://github.com/nop1984/Monaco-Editor-JS-build-for-composer",
+    "keywords": ["editor", "online editor"],
+    "require": {
+
+    }
+}
